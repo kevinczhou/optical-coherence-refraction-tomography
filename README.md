@@ -1,6 +1,6 @@
 # Optical coherence refraction tomography
 
-This repository contains Python code that implements optical coherence refraction tomography (OCRT), a technique which starts with low-resolution optical coherence tomography (OCT) images acquired from multiple angles, and through iterative optimization generates simultaneously 1) a high-resolution reconstruction, and 2) a refractive index map of the sample. For more details, you can read our paper at TBD.
+This repository contains Python code that implements optical coherence refraction tomography (OCRT), a technique which starts with low-resolution optical coherence tomography (OCT) images acquired from multiple angles, and through iterative optimization generates simultaneously 1) a high-resolution reconstruction, and 2) a refractive index map of the sample. For more details, you can read our paper at https://www.nature.com/articles/s41566-019-0508-1 (or, if you don't have a subscription to Nature Photonics, https://rdcu.be/bO6eQ).
 
 ## Data
 This code generates OCRT results similar to those in figures 4-6 of our paper, which feature 7 different biological samples:
