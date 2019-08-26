@@ -34,7 +34,7 @@ As the authors have a currently-pending patent related to OCRT, you may only use
 ## Citation
 If you find our code and/or datasets useful to your research, please cite the following publication:
 
-TBD
+Zhou, K. C., Qian, R., Degan, S., Farsiu, S., & Izatt, J. A. Optical coherence refraction tomography. *Nature Photonics*, 1-9 (2019).
 
 
 
