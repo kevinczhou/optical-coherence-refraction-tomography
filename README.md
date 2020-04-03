@@ -2,6 +2,8 @@
 
 This repository contains Python code that implements optical coherence refraction tomography (OCRT), a technique which starts with low-resolution optical coherence tomography (OCT) images acquired from multiple angles, and through iterative optimization generates simultaneously 1) a high-resolution reconstruction, and 2) a refractive index map of the sample. For more details, you can read our paper at https://www.nature.com/articles/s41566-019-0508-1 (or, if you don't have a subscription to Nature Photonics, https://rdcu.be/bO6eQ).
 
+More recently, we have extended OCRT to spectroscopic OCT (SOCT). The new technique, termed spectroscopic OCRT (SOCRT), circumvents the trade-off between axial resolution and spectral resolution in SOCT, thus enabling reconstructions with simultaneously high spatial and spectral resolution (https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-2091).
+
 ## Data
 This code generates OCRT results similar to those in figures 4-6 of our paper, which feature 7 different biological samples:
 - mouse_vas_deferens1
