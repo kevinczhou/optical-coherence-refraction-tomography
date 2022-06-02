@@ -4,6 +4,8 @@ This repository contains Python code that implements optical coherence refractio
 
 More recently, we have extended OCRT to spectroscopic OCT (SOCT). The new technique, termed spectroscopic OCRT (SOCRT), circumvents the trade-off between axial resolution and spectral resolution in SOCT, thus enabling reconstructions with simultaneously high spatial and spectral resolution (https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-2091).
 
+See also our 3D implementation of OCRT, featuring a new hardware and a new, more efficient, GPU-accelerated reconstruction algorithm: https://github.com/kevinczhou/3d-ocrt
+
 ## Data
 This code generates OCRT results similar to those in figures 4-6 of our paper, which feature 7 different biological samples:
 - mouse_vas_deferens1
